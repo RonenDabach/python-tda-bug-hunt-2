@@ -1,1 +1,12 @@
 # python-tda-bug-hunt-2
+
+# DEPENDENCY
+#freeipa==4.5.4
+
+
+# VULNERABLE DEPENDENCY IN THE PACKAGE TREE
+#jinja2==3.1.2 
+
+# VULNERABILITIES
+1. CVE-2019-10195
+
